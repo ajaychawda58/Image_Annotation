@@ -1,5 +1,6 @@
 mysql_host: 'localhost'
-mysql_user: 'ajay'
+#Enter you Username
+mysql_user: '********'
 #Enter your password in field below
-mysql_password: '12345678'
+mysql_password: '********'
 mysql_db: 'flaskapp'
