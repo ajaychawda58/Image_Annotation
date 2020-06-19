@@ -1,0 +1,12 @@
+Flask
+
+pip install Flask
+
+Flask-MySQL
+
+pip install flask-mysql
+
+
+YAML
+
+pip install pyyaml
