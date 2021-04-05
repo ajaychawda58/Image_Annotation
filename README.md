@@ -1,4 +1,4 @@
-#Prerequisites:
+##Prerequisites
 
 Install MySql Server : sudo apt-get install mysql-server
 
