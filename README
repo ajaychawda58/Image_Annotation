@@ -1,4 +1,4 @@
-Prerequisites:
+#Prerequisites:
 
 Install MySql Server : sudo apt-get install mysql-server
 
@@ -9,7 +9,7 @@ USE flaskapp;
 CREATE TABLE image_labels(image varchar(200), label varchar(100));
 
 
-Dependencies
+#Dependencies
 
 Check Requirements.txt
 
